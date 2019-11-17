@@ -45,10 +45,16 @@ public class Modelo {
 
 		cplex.solve();
 
+		printResults(grafo, cplex);
+	}
+
+	private void printResults(Grafo grafo, IloCplex cplex) throws IloException {
+		int nV = grafo.getNumeroVertices();
+
 		System.out.println("Status: " + cplex.getStatus());
-		double tolerance = cplex.getParam(IloCplex.DoubleParam.EpInt);
 		System.out.println("Custo de uma atribuicao otima: " + cplex.getObjValue());
 
+		double tolerance = cplex.getParam(IloCplex.DoubleParam.EpInt);
 		Aresta[][] mapa = grafo.getMapaArestas();
 
 		int[][] checker = new int[nV][nV];
@@ -60,13 +66,37 @@ public class Modelo {
 					if (x != null && cplex.getValue(x) >= 1 - tolerance) {
 
 						checker[i][j] = 1;
+						checker[j][i] = 1;
 
-						System.out.println("De " + i
-								+ " Para " + j);
+						//System.out.println("De " + i
+						//		+ " Para " + j);
 					}
 				}
 			}
 		}
+
+		int v = 0;
+		boolean[] visited = new boolean[nV];
+		do {
+			visited[v] = true;
+
+			for (int i = 0; i < nV; i++) {
+				int aresta = checker[v][i];
+
+				if (aresta == 1) {
+					if (!visited[i]) {
+						System.out.println(v + " -> " + i);
+
+						v = i;
+						break;
+					}
+					else if (i == 0) {
+						// O vertice 0 deve ser marcado como não visitado para que a última aresta seja detectada.
+						visited[i] = false;
+					}
+				}
+			}
+		} while(v != 0);
 
 		checkIfIsValidAnswer(checker);
 	}

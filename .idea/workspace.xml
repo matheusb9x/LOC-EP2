@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af4c3272-3d5d-4131-a7a2-4749bf27c98e" name="Default Changelist" comment="" />
+    <list default="true" id="af4c3272-3d5d-4131-a7a2-4749bf27c98e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-51.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-53.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-54.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-62.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-63.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-66.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-67.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-68.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-69.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-70.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-72.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-73.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-74.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-79.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-83.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-84.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-85.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-86.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-87.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-88.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-89.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-92.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-93.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-94.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-95.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-96.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-97.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/50/Sample-50-99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tsp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tsp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tsp/Modelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tsp/Modelo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019277.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019291.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019354.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019627.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019733.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019742.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 201983.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019832.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019865.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/50/Sat Nov 16 00-08-28 BRST 2019972.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/50/Sample-50-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +123,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TLZDwd6Veifg0P5DLZv1fhIs1b" />
   <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\EACH\loc\ep2-tsp\samples\50" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,7 +151,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generator" />
+      <module name="tsp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tsp" />
@@ -45,6 +169,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Generator" />
       </list>
     </recent_temporary>
   </component>
@@ -60,5 +185,35 @@
       <updated>1573241219160</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Modelo.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="v == 19 &amp;&amp; i == 0;" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/Modelo.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
